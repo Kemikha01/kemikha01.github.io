@@ -2,4 +2,4 @@
 - Kemikha
   - pear
 ![profile](img/IMG_7652.jpg)
-[VOCABURALY](vocaburaly.md)
+[VOCABURALY](vocabulary.md)

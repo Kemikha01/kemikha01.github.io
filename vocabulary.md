@@ -2,14 +2,14 @@
 - คำนี้เมื่อดูใน CISSP Glossary - Student Guide ให้ความหมายดังนี้ A list of the organization’s assets, annotated to reflect the criticality of each asset to the organization.
   - แปลจาก ChatGPT ได้ว่า รายการทรัพย์สินขององค์กรที่มีการระบุเพิ่มเติมเพื่อแสดงถึงความสำคัญของแต่ละทรัพย์สินต่อองค์กร
   - แปลจาก Gemini ได้ว่า  ระดับความสำคัญของสินทรัพย์อาจแตกต่างกันไปตามแต่ละองค์กรและขึ้นอยู่กับปัจจัยต่างๆ เช่น ขนาดขององค์กร, ประเภทธุรกิจ, และกลยุทธ์ทางธุรกิจ
-- Reference from https://www.isc2.org/certifications/cissp/cissp-student-glossary\
+- Reference from https://www.isc2.org/certifications/cissp/cissp-student-glossary\n
 
 - คำนี้เมื่อดูใน NIST Glossary ให้ความหมายดังนี้ Process of analyzing operational functions and the effect that a disruption might have on them.
   - แปลจาก ChatGPT ได้ว่า กระบวนการวิเคราะห์หน้าที่การดำเนินงานและผลกระทบที่ความเสียหายหรือการหยุดชะงักอาจส่งผลต่อหน้าที่เหล่านั้น
   - แปลจาก Gemini ได้ว่า  กระบวนการที่องค์กรใช้ในการประเมินผลกระทบที่อาจเกิดขึ้นหากฟังก์ชันการดำเนินงานสำคัญขององค์กรหยุดชะงัก
-- Reference from https://csrc.nist.gov/glossary\
+- Reference from https://csrc.nist.gov/glossary\n
   
-- Myself สรุปได้ว่า กระบวนการวิเคราะห์ความสำคัญของทรัพย์สินและหน้าที่การดำเนินงานขององค์กร พร้อมประเมินผลกระทบที่อาจเกิดขึ้นหากมีการหยุดชะงักหรือความเสียหาย\
+- Myself สรุปได้ว่า กระบวนการวิเคราะห์ความสำคัญของทรัพย์สินและหน้าที่การดำเนินงานขององค์กร พร้อมประเมินผลกระทบที่อาจเกิดขึ้นหากมีการหยุดชะงักหรือความเสียหาย\n
 
 - ตัวอย่างในชีวิตประจำวัน
   1.ระบบธนาคารออนไลน์ล่ม

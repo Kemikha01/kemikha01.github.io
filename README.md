@@ -2,4 +2,4 @@
 - Kemikha
   - pear
 ![profile](img/IMG_7652.jpg)
-[Bussiness Im Analysis](business-impact-analysis.md)
+[Bussiness Impact Analysis](business-impact-analysis.md)

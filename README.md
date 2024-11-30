@@ -2,4 +2,4 @@
 - Kemikha
   - pear
 ![profile](img/IMG_7652.jpg)
-[VOCABURALY](vocabulary.md)
+[Bussiness Im Analysis](business-impact-analysis.md)

@@ -1,4 +1,4 @@
-# Kemikha
-- 6530200037
-  - sec800
+# Kemikha01.github.io
+- Kemikha
+  - pear
 ![profile](img/IMG_7652.jpg)

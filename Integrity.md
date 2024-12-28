@@ -1,7 +1,7 @@
 # Data Quality
 
 # Integrity
-- [img1](img/FI_What is Data Quality_V2.png)
+![img1](img/FI_What is Data Quality_V2.png)
 - **Definition :** The integrity of your data is the measure of your data being accurate, consistent, and reliable over time. For example, 
                you might get your data to a certain quality now, but over the next few years, this could deteriorate as more data is added, 
                modified, and deleted.
@@ -13,7 +13,7 @@
 - **ความหมายของ chat GPT** : Integrity ในบริบทของ Data Quality หมายถึงความถูกต้องและสอดคล้องของข้อมูลภายในระบบหรือฐานข้อมูล ซึ่งเน้นเรื่องความสัมพันธ์และความสมบูรณ์ของข้อมูลที่สอดคล้องกันในทุกส่วนของระบบ โดยมักเกี่ยวข้องกับการรักษาความถูกต้องในเชิงโครงสร้างและเนื้อหา
 - **ความหมายของ Gemini :** ความซื่อสัตย์ (Integrity) ในคุณภาพข้อมูล หมายถึง ความสมบูรณ์และความถูกต้องของข้อมูลที่สะท้อนถึงความเป็นจริงอย่างครบถ้วน ไม่บิดเบือน หรือมีการแก้ไขเพิ่มเติมที่อาจทำให้ข้อมูลผิดเพี้ยนไปจากความเป็นจริงเดิม
 - **สรุปใจความสำคัญของตัวเอง :** Integrity หมายถึงความสมบูรณ์และความถูกต้องของข้อมูลทั้งในเชิงโครงสร้าง และเนื้อหา โดยข้อมูลต้องสะท้อนความเป็นจริงอย่างครบถ้วน สอดคล้องกันในทุกส่วนของระบบไม่มีการบิดเบือนหรือแก้ไขจนทำให้ข้อมูลผิดเพี้ยนจากความเป็นจริง
-
+![img2](img/DQ Measurement V2.webp)
 - **ตัวอย่าง Integrity ในบริบทของ Data Quality**
   - **Referential Integrity ในฐานข้อมูลลูกค้าและคำสั่งซื้อ**
     - ตารางลูกค้า (Customer) มี Primary Key เป็น Customer_ID

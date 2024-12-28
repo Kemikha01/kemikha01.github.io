@@ -1,7 +1,7 @@
 # Data Quality
 
 # Integrity
-![img1](img/FI_What is Data Quality_V2.png)
+![imgTegrity](img/FI_What is Data Quality_V2.png)
 - **Definition :** The integrity of your data is the measure of your data being accurate, consistent, and reliable over time. For example, 
                you might get your data to a certain quality now, but over the next few years, this could deteriorate as more data is added, 
                modified, and deleted.

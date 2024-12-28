@@ -5,4 +5,4 @@
 - [Bussiness Impact Analysis](business-impact-analysis.md)
 - [Christmas](e-card-Christmas.md)
 - [Profile](Profile.html)
-- [Integrity](Integrity.md)
+- [Integrity](integrity.md)

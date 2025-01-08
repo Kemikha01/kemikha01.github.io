@@ -21,7 +21,7 @@
 # 🙋🏻‍♀️ Team Members
 
 1. [Kemikha Chan-Ngam](https://kemikha01.github.io/boardgame)
-2. [Panisara Wijar](https://6530200274.github.io/boardgame)
-3. [Penpicha Priwa](https://penpicha31.github.io/boardgame)
-4. [Manatsawee Piyasophasakul](https://manatsawee-pi.github.io/boardgame)
+2. [Panisara Wijarn](https://6530200274.github.io/boardgame)
+3. [Penpicha Priwan](https://penpicha31.github.io/boardgame)
+4. [Manatsawee Piyasopasakul](https://manatsawee-pi.github.io/boardgame)
 5. [Pattralada Pobteepheung](https://skyandz.github.io/boardgame)

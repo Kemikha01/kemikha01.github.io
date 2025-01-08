@@ -6,3 +6,4 @@
 - [Christmas](e-card-Christmas.md)
 - [Profile](Profile.html)
 - [Integrity](integrity.md)
+- [board game](boardgame.md)

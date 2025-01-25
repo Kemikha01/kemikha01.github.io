@@ -7,3 +7,4 @@
 - [Profile](Profile.html)
 - [Integrity](integrity.md)
 - [board game](boardgame.md)
+- [Security Control](security-control.md)

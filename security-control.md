@@ -1,0 +1,5 @@
+#Sercurity Control
+-[Type of security control](img/IMG_0530.jpeg)
+-[Source](https://www.infosectrain.com/blog/types-of-security-controls/)
+-รูปที่ถ่ายด้วยตนเอง
+-[Type of security control](img/IMG_0529.jpeg)

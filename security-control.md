@@ -2,8 +2,8 @@
 ![Type of security control](img/IMG_0530.jpeg)
 - [Source](https://www.infosectrain.com/blog/types-of-security-controls/)
 - รูปที่ถ่ายด้วยตนเอง
-![Type of security control](img/IMG_0529.jpeg)
-- เป็นรูปที่ **Scan หน้า Face ID** เพื่อเข้าโทรศัพท์มือถือของเพื่อน Iphone 13 (Penpiz)
+![Type of security control](img/IMG_0532.jpeg)
+- เป็นรูปที่ **Scan หน้า Face ID** เพื่อเข้าโทรศัพท์มือถือของดิฉัน Iphone 15
 - การสแกนหน้า Face ID จัดอยู่ใน:
   - **Type of Security Controls**: Technical Controls
   - **Control Functions**: Preventative
